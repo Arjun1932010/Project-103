@@ -1,0 +1,14 @@
+body{
+    background-color: powderblue;
+    border-color: red;
+    border-width: 10px;
+    border-style: solid;
+}
+.btn-success{
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;   
+}
+.btn-info{
+    font-family: 'Times New Roman', Times, serif;
+    color: orange;   
+}
